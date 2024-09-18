@@ -11,7 +11,7 @@ public class Main {
         System.out.println(media);
 
         String sinopsis =  """
-                The Matrix es una película donde la humanidad está atrapada en una realidad simulada
+                The [Matrix] es una película donde la humanidad está atrapada en una realidad simulada
                 creada por máquinas. Neo, un hacker, descubre la verdad y se une a una rebelión para 
                 liberar a la humanidad. ¿Podrá despertar a todos?. Fue lanzada en: 
                 """ + fechaDeLanzamiento;
